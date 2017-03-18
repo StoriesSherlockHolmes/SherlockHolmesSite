@@ -29,7 +29,9 @@
         </div>
         <div class="col-lg-8">
             <div class="jumbotron">
-                <embed src="../../assets/pdf/study-in-scarlet-s-h.pdf" class="" width="800px" height="1050px" />
+                <div class="responsive-object">
+                    <embed src="../../assets/pdf/study-in-scarlet-s-h.pdf" class="" width="800px" height="1050px" />
+                </div>
             </div>
         </div>
         <div class="col-lg-2 hidden-xs hidden-sm">
