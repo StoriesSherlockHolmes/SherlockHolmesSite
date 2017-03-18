@@ -22,7 +22,7 @@
         </div>
         <div class="col-lg-8">
             <div class="jumbotron">
-                <embed src="../../assets/pdf/Adventures-Of-S-H.pdf" class="" width="800px" height="1050px" />
+                <embed src="../../assets/pdf/The-Case-Book-S-H.pdf" class="" width="800px" height="1050px" />
             </div>
         </div>
         <div class="col-lg-2 hidden-xs hidden-sm">
