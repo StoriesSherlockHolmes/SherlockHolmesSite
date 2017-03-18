@@ -3,21 +3,28 @@
 <head>
     @include ('layouts.css')
 </head>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-3131343186206567",
+    enable_page_level_ads: true
+  });
+</script>
 <body>
     @include ('layouts.navbar')
 
 <div class="container">
     <div class="col-lg-12">
-        <div class="jumbotron">
-            <center>Top Ads</center>
+        <div class="">
+            <center></center>
         </div>
     </div>
 </div>
 
 <div>
         <div class="col-lg-2 hidden-sm hidden-xs">
-            <div class="jumbotron">
-                <center>Left Ads</center>
+            <div class="">
+                <center></center>
             </div>
         </div>
         <div class="col-lg-8">
@@ -104,8 +111,8 @@
    </div>
         </div>
         <div class="col-lg-2 hidden-xs hidden-sm">
-            <div class="jumbotron">
-                <center>Right Ads</center>
+            <div class="">
+                <center></center>
             </div>
         </div>
 </div>
